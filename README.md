@@ -42,4 +42,10 @@ else:
 	**x = (1,"two",three)
 	(hello,who,are) = x <--- unpacking**
 	
+8. Class
+	1. Classes are the blue prints, it contains variable and methods
+```python
+#Sytax of class
+class ClassName:
+```
 	
